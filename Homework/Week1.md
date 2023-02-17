@@ -17,5 +17,13 @@
 - Self-driving car would use a combination of sensors, such as cameras, lidar, and radar, to detect other vehicles, pedestrians, and obstacles on the road. The car's AI algorithms would analyze this data to make decisions about the car's speed, direction, and braking.
 - Chatbot might be a customer service chatbot on an e-commerce website. A customer who is having an issue with a recent purchase might open the chatbot and ask for help. The chatbot would use NLP algorithms to understand the customer's message, analyze it, and generate a response that is appropriate to the context and the customer's needs.
 ### 4. Which chip is for deep neural networks and Ascend AI processors. Please brief these four major modules.
-- 
+- The chip: Ascend 910 chip, Ascend 310 chip
+##### Four major modules:
+- Ascend Software: This is a suite of tools and libraries that help developers to build, train, and deploy deep learning models on Ascend hardware.
+- Ascend AI Training and Inference Cluster: This is a complete solution for building and managing large-scale AI clusters. It includes hardware, software, and services, such as cluster management and technical support
+- Atlas Intelligent Computing Platform (ICP): It is designed to enable efficient and flexible AI deployment in the cloud, on-premises, and at the edge. 
+- ModelArts: This is a cloud-based AI development platform that provides a variety of tools and services for building and deploying machine learning and deep learning models.
 ### 5. Based on your current knowledge and understanding, please elaborate on the development trends of artificial intelligence in the future in your view.
+- Ethical, social, and legal issues related to the use of AI will become increasingly important and will need to be addressed in a responsible and transparent manner.
+- AI will continue to play a more important role in our lives, with growing applications in healthcare, finance, and education.
+- Advancements in AI hardware, such as the Ascend series of chips, will enable more powerful and sophisticated AI applications.
