@@ -7,6 +7,7 @@
 
 ### 2. Week2: Introduce library Pandas
 - [Notebook](./Notebooks/Week2/AI_W3_17_02_23.ipynb)
+- [Document](./Notebooks/Week2/Pandas_Cheat_Sheet.pdf)
 
 ### 3. Week3: Fuzzy expert system
 -
