@@ -27,3 +27,7 @@
 - Ethical, social, and legal issues related to the use of AI will become increasingly important and will need to be addressed in a responsible and transparent manner.
 - AI will continue to play a more important role in our lives, with growing applications in healthcare, finance, and education.
 - Advancements in AI hardware, such as the Ascend series of chips, will enable more powerful and sophisticated AI applications.
+
+
+### Recommend watch
+- [Can you solve the river crossing riddle](https://www.youtube.com/watch?v=ADR7dUoVh_c&ab_channel=TED-Ed)
