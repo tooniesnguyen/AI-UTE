@@ -10,4 +10,5 @@
 - [Document](./Notebooks/Week2/Pandas_Cheat_Sheet.pdf)
 
 ### 3. Week3: Fuzzy expert system
-- [Notebook]
+- Notebook
+- Homework
