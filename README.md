@@ -1,5 +1,6 @@
 # AI-UTE
-
+- Student name: Nguyễn Ngọc Nhân
+- Student id: 20146262
 ### 1. Week1: Introduce AI
 - [Document](./Notebooks/Week1/AI_week_1.pdf)
 - [Homework](./Notebooks/Week1/homework.md)
