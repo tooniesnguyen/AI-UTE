@@ -1,3 +1,6 @@
+# Student name: Nguyễn Ngọc Nhân
+# Student ID: 20146262
+
 ### 1. There are different interpretations of artificial intelligence in different contexts. Please elaborate on the artificial intelligence in your eyes.
 - In computer science and engineering, AI is often defined as the simulation of human intelligence in machines that are programmed to think and learn like humans (Machine Learning, Natural Language Processing, and Computer Vision) 
 - In business and economics, AI is often used to describe the use of advanced algorithms and data analysis techniques to improve business processes and decision-making ( Predictive analytics, customer relationship management, and supply chain management).
