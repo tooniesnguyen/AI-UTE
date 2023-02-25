@@ -5,7 +5,7 @@
 - [Homework](./Notebooks/Week1/homework.md)
 - Recommended watch: [Can you solve the river crossing riddle?](https://www.youtube.com/watch?v=ADR7dUoVh_c&ab_channel=TED-Ed)
 
-### 2. Week2: Introduce library Pandas
+### 2. Week2: Introduce Pandas library
 - [Notebook](./Notebooks/Week2/AI_W3_17_02_23.ipynb)
 - [Document](./Notebooks/Week2/Pandas_Cheat_Sheet.pdf)
 
