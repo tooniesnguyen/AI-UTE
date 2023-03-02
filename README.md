@@ -13,3 +13,4 @@
 ### 3. Week3: Fuzzy expert system
 - [Notebook](./Notebooks/Week3/Fuzzy_Expert_system.ipynb)
 - [Homework 1](./Notebooks/Week3/Fuzzy_Cooker.ipynb)
+- Problem: [Prediction of rainfall using fuzzy logic](/Notebooks/Week3/Problem1.pdf), [Adaptive Food Suggestion Engine by Fuzzy Logic](/Notebooks/Week3/Problem2.pdf), [Medical Diagnosis System Using Fuzzy Logic](/Notebooks/Week3/Problem3.pdf)
