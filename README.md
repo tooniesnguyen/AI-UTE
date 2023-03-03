@@ -14,4 +14,4 @@
 - [Notebook](./Notebooks/Week3/Fuzzy_Expert_system.ipynb)
 - [Homework 1](./Notebooks/Week3/Fuzzy_Cooker.ipynb)
 - Problem: **1.**[Prediction of rainfall using fuzzy logic](/Notebooks/Week3/Problem1.pdf), **2.**[Adaptive Food Suggestion Engine by Fuzzy Logic](/Notebooks/Week3/Problem2.pdf), **3.**[Medical Diagnosis System Using Fuzzy Logic](/Notebooks/Week3/Problem3.pdf)
-- Submissions: [Problem 1](/Notebooks/Week3/Problem3.ipynb),
+- Submissions: [Problem 1](/Notebooks/Week3/Problem1.ipynb),
