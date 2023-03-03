@@ -13,4 +13,4 @@
 ### 3. Week3: Fuzzy expert system
 - [Notebook](./Notebooks/Week3/Fuzzy_Expert_system.ipynb)
 - [Homework 1](./Notebooks/Week3/Fuzzy_Cooker.ipynb)
-- [Homework 2](/Notebooks/Week3/Problem1.ipynb)
+- [Homework 2: Prediction of rainfall](/Notebooks/Week3/Problem1.ipynb)
