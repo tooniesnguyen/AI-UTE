@@ -14,3 +14,10 @@
 - [Notebook](./Notebooks/Week3/Fuzzy_Expert_system.ipynb)
 - [Homework 1](./Notebooks/Week3/Fuzzy_Cooker.ipynb)
 - [Homework 2: Prediction of rainfall](/Notebooks/Week3/Problem1.ipynb)
+
+### 4. Week4: Fuzzy expert system (Continue)
+
+
+### 5. Week5: Review Machine Learning
+- [Notebook](./Notebooks/Week5/W7.ipynb)
+- [Homework 1](./Notebooks/Week5/W7_Practice.ipynb)
