@@ -21,5 +21,6 @@
 - Reference: https://pythonhosted.org/scikit-fuzzy/auto_examples/plot_tipping_problem_newapi.html
 ### 5. Week5: Review Machine Learning
 - [Notebook](./Notebooks/Week5/W7.ipynb)
-- [Homework 1](./Notebooks/Week5/W7_Practice.ipynb)
-- [Homework 2: Google Stock Price Train ](./Notebooks/Week5/HomeWork1.ipynb)
+- [Homework (Practice in class)](./Notebooks/Week5/W7_Practice.ipynb)
+- [Homework 1: Google Stock Price Train ](./Notebooks/Week5/HomeWork1.ipynb)
+- [Homework 2: Housing ](./Notebooks/Week5/HomeWork2.ipynb)
