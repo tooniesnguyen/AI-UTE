@@ -22,4 +22,4 @@
 ### 5. Week5: Review Machine Learning
 - [Notebook](./Notebooks/Week5/W7.ipynb)
 - [Homework 1](./Notebooks/Week5/W7_Practice.ipynb)
-- [Homework 2](./Notebooks/Week5/H.ipynb)
+- [Homework 2: Google Stock Price Train ](./Notebooks/Week5/HomeWork1.ipynb)
