@@ -16,7 +16,7 @@
 - [Homework 2: Prediction of rainfall](/Notebooks/Week3/Problem1.ipynb)
 
 ### 4. Week4: Fuzzy expert system (Continue)
-
+- [Document](./Notebooks/Week4/FUZZY%20CONTROLLER_2023.pdf)
 
 ### 5. Week5: Review Machine Learning
 - [Notebook](./Notebooks/Week5/W7.ipynb)
