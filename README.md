@@ -18,7 +18,7 @@
 ### 4. Week4: Fuzzy expert system (Continue)
 - [Document](./Notebooks/Week4/FUZZY%20CONTROLLER_2023.pdf)
 - [Notebook](./Notebooks/Week4/AI_W6_11_03_2023..ipynb)
-
+- Reference: https://pythonhosted.org/scikit-fuzzy/auto_examples/plot_tipping_problem_newapi.html
 ### 5. Week5: Review Machine Learning
 - [Notebook](./Notebooks/Week5/W7.ipynb)
 - [Homework 1](./Notebooks/Week5/W7_Practice.ipynb)
