@@ -24,3 +24,4 @@
 - [Homework (Practice in class)](./Notebooks/Week5/W7_Practice.ipynb)
 - [Homework 1: Google Stock Price Train ](./Notebooks/Week5/HomeWork1.ipynb)
 - [Homework 2: Housing ](./Notebooks/Week5/HomeWork2.ipynb)
+- [Homework 3: Passenger ](./Notebooks/Week5/HomeWork3.ipynb)
