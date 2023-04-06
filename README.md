@@ -27,4 +27,5 @@
 - [Homework 3: Passenger ](./Notebooks/Week5/HomeWork3.ipynb)
 ### 6. Week6: Perceptron (Continue)
 - [Notebook](./Notebooks/Week6/W8.ipynb)
+### 7. Week7: ANN
 
