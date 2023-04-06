@@ -28,4 +28,5 @@
 ### 6. Week6: Perceptron (Continue)
 - [Notebook](./Notebooks/Week6/W8.ipynb)
 ### 7. Week7: ANN
+- [Notebook](./Notebooks//Week7/AI_W9_31_03_23.ipynb)
 
