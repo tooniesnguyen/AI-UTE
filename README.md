@@ -25,3 +25,6 @@
 - [Homework 1: Google Stock Price Train ](./Notebooks/Week5/HomeWork1.ipynb)
 - [Homework 2: Housing ](./Notebooks/Week5/HomeWork2.ipynb)
 - [Homework 3: Passenger ](./Notebooks/Week5/HomeWork3.ipynb)
+### 6. Week6: Perceptron (Continue)
+- [Notebook](./Notebooks/Week6/W8.ipynb)
+
