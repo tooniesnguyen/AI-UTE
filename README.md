@@ -30,4 +30,4 @@
 ### 7. Week7: ANN
 - [Notebook](./Notebooks//Week7/AI_W9_31_03_23.ipynb)
 - [Homework 1: MNIST Fashion ](.//Notebooks/Week7/HW_9_MNIST_FS.ipynb)
-- [Homework 2: C ](./Notebooks/Week7/HW_9_CIFAR100.ipynb)
+- [Homework 2: CIFAR100 ](./Notebooks/Week7/HW_9_CIFAR100.ipynb)
