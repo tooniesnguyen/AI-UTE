@@ -27,7 +27,11 @@
 - [Homework 3: Passenger ](./Notebooks/Week5/HomeWork3.ipynb)
 ### 6. Week6: Perceptron (Continue)
 - [Notebook](./Notebooks/Week6/W8.ipynb)
-### 7. Week7: ANN
+### 7. Week7 & 8: ANN
 - [Notebook](./Notebooks//Week7/AI_W9_31_03_23.ipynb)
-- [Homework 1: MNIST Fashion ](.//Notebooks/Week7/HW_9_MNIST_FS.ipynb)
+- [Homework 1: MNIST Fashion ](./Notebooks/Week7/HW_9_MNIST_FS.ipynb)
 - [Homework 2: CIFAR100 ](./Notebooks/Week7/HW_9_CIFAR100.ipynb)
+### 8. Week9: CNN
+-  [Notebook](./Notebooks/Week9/w11.ipynb)
+### 9. Week10: PreTrained Model
+-  [Notebook](./Notebooks/Week10/Ytb_search.ipynb)
