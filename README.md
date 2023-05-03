@@ -2,7 +2,13 @@
 - **Student name:** Nguyễn Ngọc Nhân
 - **Student id:** 20146262
 
-# Midterm Report: [pdf](/Notebooks/MidtermProject/MidTerm_AI.pdf)
+# Midterm Report: [pdf](/Notebooks/MidtermProject/MidTerm_AI.pdf), [Latex](/Notebooks//MidtermProject/Latex)
+- [1. Prediction of your future based on hand palm outline or face or fingerprint](/Notebooks/MidtermProject/predict-future.ipynb)
+- [2. VN banknotes (5000vnd, 10000vnd, 20k, 50k, 100k, 500k)](/Notebooks/MidtermProject/predict-money.ipynb)
+- [3. 10 Vietnamese dishes (bún bò, chè, bánh xèo......)](/Notebooks/MidtermProject/vn-dishes.ipynb)
+- [4. 5 kinds of flowers (rose, lotus, water lily, apricot, daisy, pink)](/Notebooks/MidtermProject/miniproject-flowers.ipynb)
+- [5. Recognition of all members of class from face images (you collected)](/Notebooks/MidtermProject/face-detect.ipynb)
+
 ### 1. Week1: Introduce AI
 - [Document](./Notebooks/Week1/AI_week_1.pdf)
 - [Homework](./Notebooks/Week1/homework.md)
