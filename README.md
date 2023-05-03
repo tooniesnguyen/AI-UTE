@@ -3,11 +3,11 @@
 - **Student id:** 20146262
 
 # Midterm Report: [pdf](/Notebooks/MidtermProject/MidTerm_AI.pdf), [Latex](/Notebooks//MidtermProject/Latex)
-- Prediction of your future based on hand palm outline or face or fingerprint: [GitHub](/Notebooks/MidtermProject/predict-future.ipynb), [TensorBoard](https://huggingface.co/Toonies/PredictFuture/tensorboard)
-- VN banknotes (5000vnd, 10000vnd, 20k, 50k, 100k, 500k: [GitHub](/Notebooks/MidtermProject/predict-money.ipynb), [TensorBoard](https://huggingface.co/Toonies/Money/tensorboard)
-- 10 Vietnamese dishes (bún bò, chè, bánh xèo......): [GitHub](/Notebooks/MidtermProject/vn-dishes.ipynb), [TensorBoard](https://huggingface.co/Toonies/TenDishes/tensorboard)
-- 5 kinds of flowers (rose, lotus, water lily, apricot, daisy, pink): [GitHub](/Notebooks/MidtermProject/miniproject-flowers.ipynb), [TensorBoard](https://huggingface.co/Toonies/Flowers/tensorboard)
-- Recognition of all members of class from face images (you collected): [GitHub](/Notebooks/MidtermProject/face-detect.ipynb), [TensorBoard](https://huggingface.co/Toonies/FaceDetect/tensorboard)
+- Prediction of your future based on hand palm outline or face or fingerprint: [Code](/Notebooks/MidtermProject/predict-future.ipynb), [TensorBoard](https://huggingface.co/Toonies/PredictFuture/tensorboard)
+- VN banknotes (5000vnd, 10000vnd, 20k, 50k, 100k, 500k: [Code](/Notebooks/MidtermProject/predict-money.ipynb), [TensorBoard](https://huggingface.co/Toonies/Money/tensorboard)
+- 10 Vietnamese dishes (bún bò, chè, bánh xèo......): [Code](/Notebooks/MidtermProject/vn-dishes.ipynb), [TensorBoard](https://huggingface.co/Toonies/TenDishes/tensorboard)
+- 5 kinds of flowers (rose, lotus, water lily, apricot, daisy, pink): [Code](/Notebooks/MidtermProject/miniproject-flowers.ipynb), [TensorBoard](https://huggingface.co/Toonies/Flowers/tensorboard)
+- Recognition of all members of class from face images (you collected): [Code](/Notebooks/MidtermProject/face-detect.ipynb), [TensorBoard](https://huggingface.co/Toonies/FaceDetect/tensorboard)
 
 ### 1. Week1: Introduce AI
 - [Document](./Notebooks/Week1/AI_week_1.pdf)
