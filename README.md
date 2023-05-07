@@ -6,8 +6,8 @@
 - Prediction of your future based on hand palm outline or face or fingerprint: [Keras](/Notebooks/MidtermProject/predict-future-tf.ipynb), [Pytorch](/Notebooks/MidtermProject/predict-future.ipynb), [TensorBoard](https://huggingface.co/Toonies/PredictFuture/tensorboard)
 - VN banknotes (5000vnd, 10000vnd, 20k, 50k, 100k, 500k: [Keras](/Notebooks/MidtermProject/predict-money-tf.ipynb), [Pytorch](/Notebooks/MidtermProject/predict-money.ipynb), [TensorBoard](https://huggingface.co/Toonies/Money/tensorboard)
 - 10 Vietnamese dishes (bún bò, chè, bánh xèo......): [Keras](/Notebooks/MidtermProject/predict-food-tf.ipynb), [Pytorch](/Notebooks/MidtermProject/vn-dishes.ipynb), [TensorBoard](https://huggingface.co/Toonies/TenDishes/tensorboard)
-- 5 kinds of flowers (rose, lotus, water lily, apricot, daisy, pink): [Pytorch](/Notebooks/MidtermProject/miniproject-flowers.ipynb), [TensorBoard](https://huggingface.co/Toonies/Flowers/tensorboard)
-- Recognition of all members of class from face images (you collected): [Pytorch](/Notebooks/MidtermProject/face-detect.ipynb), [TensorBoard](https://huggingface.co/Toonies/FaceDetect/tensorboard)
+- 5 kinds of flowers (rose, lotus, water lily, apricot, daisy, pink): [Keras](/Notebooks/MidtermProject/flower-tf.ipynb), [Pytorch](/Notebooks/MidtermProject/miniproject-flowers.ipynb), [TensorBoard](https://huggingface.co/Toonies/Flowers/tensorboard)
+- Recognition of all members of class from face images (you collected): [Keras](/Notebooks/MidtermProject/face-detect-class-tf.ipynb), [Pytorch](/Notebooks/MidtermProject/face-detect.ipynb), [TensorBoard](https://huggingface.co/Toonies/FaceDetect/tensorboard)
 
 ### 1. Week1: Introduce AI
 - [Document](./Notebooks/Week1/AI_week_1.pdf)
