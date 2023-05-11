@@ -2,7 +2,7 @@
 - **Student name:** Nguyễn Ngọc Nhân
 - **Student id:** 20146262
 
-# Midterm Report: [pdf_Pytorch_Version](/Notebooks/MidtermProject/MidTerm_AI.pdf), [Latex](/Notebooks//MidtermProject/Latex)
+# Midterm Report: [pdf_Keras](/Notebooks/MidtermProject/MidTermAITF.pdf), [pdf_Pytorch](/Notebooks/MidtermProject/MidTerm_AI.pdf), [Latex](/Notebooks//MidtermProject/Latex)
 - Prediction of your future based on hand palm outline or face or fingerprint: [Keras](/Notebooks/MidtermProject/predict-future-tf.ipynb), [Pytorch](/Notebooks/MidtermProject/predict-future.ipynb), [TensorBoard](https://huggingface.co/Toonies/PredictFuture/tensorboard)
 - VN banknotes (5000vnd, 10000vnd, 20k, 50k, 100k, 500k: [Keras](/Notebooks/MidtermProject/predict-money-tf.ipynb), [Pytorch](/Notebooks/MidtermProject/predict-money.ipynb), [TensorBoard](https://huggingface.co/Toonies/Money/tensorboard)
 - 10 Vietnamese dishes (bún bò, chè, bánh xèo......): [Keras](/Notebooks/MidtermProject/predict-food-tf.ipynb), [Pytorch](/Notebooks/MidtermProject/vn-dishes.ipynb), [TensorBoard](https://huggingface.co/Toonies/TenDishes/tensorboard)
